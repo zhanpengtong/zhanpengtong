@@ -1,39 +1,51 @@
 
 # 👋 Hi, I'm Zhanpeng Tong
 
-🎓 **Master of Science in Computer Science** @ Northeastern University (Graduating April 2025)  
+🎓 **Master of Science in Computer Science** @ Northeastern University (Graduated April 2025)  
 🌍 Based in the U.S. | Open to Full-time SWE Opportunities | Require OPT & H1-B  
-💡 Passionate about Full-Stack Development & Applied AI
+💡 Passionate about Full-Stack Development, Applied AI, and Human-Centered Technology
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📊 [Sentiment Analysis of Dialogues in Harry Potter](https://github.com/zhanpengtong/Sentiment-Analysis-of-dialogues-in-Harry-Potter)
-- Fine-tuned transformer and classic models (DeBERTa, BiLSTM, Naive Bayes) on dialogue-level sentiment data.
-- Applied hyperparameter tuning and data preprocessing for improved classification performance.
+Analyzes character sentiments in the Harry Potter series using classical ML and fine-tuned LLMs (DeBERTa). Involves advanced NLP preprocessing, model evaluation, and visualization to understand emotional dynamics.
 
-### 🛒 [Online Shopping App](https://github.com/zhanpengtong/OnlineShoppingApp)
-- Built a full-stack e-commerce platform using Spring Boot + Hibernate + MySQL + Docker.
-- Implemented authentication, role-based access, product tracking, order lifecycle, and analytics.
+### 🛍️ [Online Shopping App](https://github.com/zhanpengtong/OnlineShoppingApp)
+A full-stack e-commerce system with role-based access control, JWT-secured endpoints, product management, order tracking, and business analytics dashboards. Built with Spring Boot, Hibernate, MySQL.
 
 ### 🧠 [SleepDisorderPredictor](https://github.com/zhanpengtong/SleepDisorderPredictor)
-- Machine learning project predicting sleep disorders based on wearable health data.
+Machine learning model that predicts sleep disorders from wearable health data using Random Forest and KNN. Includes complete preprocessing, feature engineering, model tuning, and evaluation pipeline.
 
-### 📅 [PSP - Personal Study Planner (React + Node)](https://github.com/zhanpengtong/psp-react-web-app)
-- A productivity planner with user accounts, task tracking, and academic scheduling.
+### 🧑‍🏫 [Kanbas LMS Clone (React + Node)](https://github.com/zhanpengtong/kanbas-react-web-app)
+A learning management platform inspired by Canvas. Features course navigation, gradebooks, and assignments. React frontend paired with a Node.js Express backend and MongoDB.
 
-### 📚 [Kanbas LMS Clone](https://github.com/zhanpengtong/kanbas-react-web-app)
-- Lightweight learning platform inspired by Canvas, using React & Node.js.
+### 📅 [PSP – Personal Study Planner (Full Stack)](https://github.com/zhanpengtong/psp-react-web-app)
+Helps users organize tasks and study schedules. Authentication, to-do lists, and academic dashboards. Built using React, Node.js, Express, and MongoDB.
 
 ---
 
 ## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Languages**: Java, JavaScript, Python, SQL  
-**Frameworks**: Spring Boot, Express.js, React, Hibernate  
-**Tools**: Git, Docker, Postman, MongoDB, MySQL  
-**AI/ML**: Scikit-learn, Transformers (Hugging Face), TensorFlow (basic), NLP
+
+## 📈 GitHub Stats
+
+![Zhanpeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanpengtong&show_icons=true&theme=default&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanpengtong&layout=compact)
 
 ---
 
@@ -41,14 +53,7 @@
 
 📧 zhanpengtong@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/zhanpengtong)  
-💼 [Resume (PDF)](https://github.com/zhanpengtong/zhanpengtong/blob/main/Resume_zhanpeng.pdf) *(if uploaded here)*
+💼 [Resume](https://github.com/zhanpengtong/zhanpengtong/blob/main/Resume_zhanpeng.pdf)
 
----
-
-## 💡 Fun Fact
-
-I'm deeply interested in building tools that help people live more intentional lives—both technically (AI-enhanced products) and emotionally (human-centered design).
-
----
 
 _Thanks for visiting my profile!_
