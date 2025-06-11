@@ -44,7 +44,6 @@ Helps users organize tasks and study schedules. Authentication, to-do lists, and
 
 ## 📈 GitHub Stats
 
-![Zhanpeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanpengtong&show_icons=true&theme=default&hide=prs)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanpengtong&layout=compact)
 
 ---
